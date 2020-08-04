@@ -1,3 +1,9 @@
+biens et services : 
+  somme:
+    - numérique
+    - biens divers
+    - services publics
+
 bilan:
   titre: Votre bilan climat personnel
   exposé: oui
